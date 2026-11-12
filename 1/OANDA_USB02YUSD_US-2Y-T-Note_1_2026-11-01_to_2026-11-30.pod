@@ -6,7 +6,7 @@
   "chunk_end": "2026-11-30",
   "parquet_file": "OANDA_USB02YUSD_US-2Y-T-Note_1_2026-11-01_to_2026-11-30.parquet",
   "data_file": "OANDA_USB02YUSD_US-2Y-T-Note_1_2026-11-01_to_2026-11-30.parquet",
-  "row_count": 7203,
+  "row_count": 7976,
   "first_candle": {
     "time": 1793574000,
     "Time": "2026-11-01T23:00:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 1
   },
   "last_candle": {
-    "time": 1794375900,
-    "Time": "2026-11-11T05:45:00.000000000Z",
-    "open": 101.993,
-    "high": 101.997,
-    "low": 101.993,
-    "close": 101.997,
-    "volume": 2
+    "time": 1794466560,
+    "Time": "2026-11-12T06:56:00.000000000Z",
+    "open": 101.988,
+    "high": 101.992,
+    "low": 101.988,
+    "close": 101.988,
+    "volume": 5
   },
   "csv_file": "OANDA_USB02YUSD_US-2Y-T-Note_1_2026-11-01_to_2026-11-30.parquet",
-  "csv_row_count": 7203,
+  "csv_row_count": 7976,
   "csv_first_candle": {
     "time": 1793574000,
     "Time": "2026-11-01T23:00:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 1
   },
   "csv_last_candle": {
-    "time": 1794375900,
-    "Time": "2026-11-11T05:45:00.000000000Z",
-    "open": 101.993,
-    "high": 101.997,
-    "low": 101.993,
-    "close": 101.997,
-    "volume": 2
+    "time": 1794466560,
+    "Time": "2026-11-12T06:56:00.000000000Z",
+    "open": 101.988,
+    "high": 101.992,
+    "low": 101.988,
+    "close": 101.988,
+    "volume": 5
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-11-11T05:51:48.000000000Z",
-  "generated_at": "2026-11-11T05:51:48.000000000Z",
+  "verified_at": "2026-11-12T06:57:32.000000000Z",
+  "generated_at": "2026-11-12T06:57:32.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-11-10T07:01:00Z",
-        "to": "2026-11-11T05:46:00Z",
+        "from": "2026-11-11T05:40:00Z",
+        "to": "2026-11-12T06:57:00Z",
         "code": 200,
         "msg": "OK"
       }
